@@ -1,7 +1,7 @@
 # exercicios_php
 Alguns projetos em PHP desenvolvidos em exercícios do Gustavo Guanabara :)
 
-# caixa_eletronico
+## caixa_eletronico
 Nesse exercicio, é simulado um caixa eletrônico, apresentando o valor a ser retirado. Após realizado essa função, o servidor te responde com as notas necessárias para realizar esse saque.
 
 # conversor_monetario
